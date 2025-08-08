@@ -17,4 +17,4 @@ prefactor.py calls the routine for diffusion process prefactor based on Vineyard
 status_manager.py will check if a directory has already processed in case the main_workflow died. 
 
 
-<img width="3298" height="4146" alt="graphviz_twopi" src="https://github.com/user-attachments/assets/d57d077a-2be1-4ec4-9f6c-00c5e72d8310" />
+<img width="3054" height="2354" alt="graphviz_fdp" src="https://github.com/user-attachments/assets/46708e7c-8baa-4da2-a483-b265a1779c85" />
