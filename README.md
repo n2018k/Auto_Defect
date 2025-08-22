@@ -1,3 +1,5 @@
+This workflow was developed by working with Gemini-Pro. All input prompts and problems solved can be shared if required by contacting me. The scripts are in constant development as we speak.
+
 Contents of Each File
 
 io_step.py: For some reason, Gemini recommends that I run NEB from this file after setting NEB directory. Quite strange
